@@ -1,5 +1,2 @@
 config:
-    pet:
-        name: zhangsan
-        age: 18
-    
+    info: http:www.baidu.com
